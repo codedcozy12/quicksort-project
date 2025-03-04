@@ -71,3 +71,4 @@ int[] GreaterValue(int[] array, int target)
 // 5. implement quicksort using for loop and not recursion
 
 int a = 10;
+Console.WriteLine(a);
